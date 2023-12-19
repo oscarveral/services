@@ -1,0 +1,58 @@
+<html>
+  <head>
+    <title>Servidor Simple para Servicios Telemáticos</title>
+  </head>
+  <body>
+    <style type="text/css">
+      body {
+        background-color: lightgray;
+        margin: 40px;
+        font-family: Lucida Grande, Verdana, Sans-serif;
+        font-size: 12px;
+        color: #000;
+      }
+      h1 {
+        font-weight: normal;
+        font-size: 26px;
+        color: #990000;
+        margin: 0 0 4px 0;
+      }
+      a {
+        color: #990000;
+      }
+    </style>
+    <h1>P&aacute;gina de prueba. Servidor HTTP Python.</h1>
+
+    <img src="logo-um.jpg" />
+    <p>Es un ejemplo simple pero funcional</p>
+
+    <form method="POST" action="/accion_form.html">
+      Correo electr&oacute;nico:<br />
+      <input type="text" name="email" value="" /><br />
+      <input type="submit" value="Enviar" />
+    </form>
+
+    <a href="400.html">P&aacute;gina de error: 400 Bad Request</a>
+    <br />
+    <a href="401.html">P&aacute;gina de error: 401 Unauthorized</a>
+    <br />
+    <a href="403.html">P&aacute;gina de error: 403 Forbidden</a>
+    <br />
+    <a href="404.html">P&aacute;gina de error: 404 Not Found</a>
+    <br />
+    <a href="405.html">P&aacute;gina de error: 405 Method Not Allowed</a>
+    <br />
+    <a href="408.html">P&aacute;gina de error: 408 Request Timeout</a>
+    <br />
+    <a href="415.html">P&aacute;gina de error: 415 Unsupported Media Type</a>
+    <br />
+    <a href="429.html">P&aacute;gina de error: 429 Too Many Requests</a>
+    <br />
+    <a href="500.html">P&aacute;gina de error: 500 Internal Server Error</a>
+    <br />
+    <a href="505.html">P&aacute;gina de error: 505 HTTP Version Not Supported</a>
+    <br />
+    <a href="logo-um.jpg">Imagen de prueba</a>
+
+  </body>
+</html>

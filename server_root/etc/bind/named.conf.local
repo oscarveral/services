@@ -1,0 +1,14 @@
+//
+// Do any local configuration here
+//
+
+// Consider adding the 1918 zones here, if they are not used in your
+// organization
+// include "/etc/bind/zones.rfc1918";
+
+zone alterra0910.org 
+{
+	type master;
+	allow-transfer { 192.168.56.201; };
+	file "/etc/bind/db.alterra0910.org.zone";
+};

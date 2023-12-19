@@ -1,0 +1,5 @@
+V	250506145425Z		01	unknown	/C=ES/ST=Murcia/O=UMU/L=Murcia/OU=alterra0910/CN=www.alterra0910.org
+V	250506145942Z		02	unknown	/C=ES/ST=Murcia/O=UMU/L=Murcia/OU=alterra0910/CN=oscar0910.org
+V	250506150753Z		03	unknown	/C=ES/ST=Murcia/O=UMU/L=Murcia/OU=alterra0910/CN=client.alterra0910.org
+V	250506150931Z		04	unknown	/C=ES/ST=Murcia/O=UMU/L=Murcia/OU=alterra0910/CN=server.alterra0910.org
+V	250506151126Z		05	unknown	/C=ES/ST=Murcia/O=UMU/L=Murcia/OU=alterra0910/CN=dns-2.alterra0910.org

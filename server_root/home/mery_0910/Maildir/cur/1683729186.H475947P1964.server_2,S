@@ -1,0 +1,24 @@
+Return-path: <oscar_0910@alterra0910.org>
+Envelope-to: mery_0910@alterra0910.org
+Delivery-date: Wed, 10 May 2023 16:33:06 +0200
+Received: from [192.168.56.101]
+	by server with esmtp (Exim 4.86_2)
+	(envelope-from <oscar_0910@alterra0910.org>)
+	id 1pwksM-0000Vd-EB
+	for mery_0910@alterra0910.org; Wed, 10 May 2023 16:33:06 +0200
+To: mery_0910@alterra0910.org
+From: oscar_0910 <oscar_0910@alterra0910.org>
+Subject: Prueba
+Message-ID: <a53dc553-f5c6-e5c4-942e-4e79b4cedd67@alterra0910.org>
+Date: Wed, 10 May 2023 16:33:04 +0200
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101
+ Thunderbird/68.10.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+Content-Language: en-US
+
+Correo de usuario 1 a usuario2
+
+Un saludo!!!
+
